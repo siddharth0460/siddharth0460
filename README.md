@@ -2,16 +2,15 @@
 
 <p align='center'>
   <a href="mailto:siddharth.230180107028@gmail.com"><u>Gmail</u></a> &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/"><u>LinkedIn</u></a> &nbsp; &nbsp;
-  <a href="https://github.com/"><u>GitHub</u></a>
+  <a href="https://www.linkedin.com/in/gecdhd-comp-pant-siddharth/"><u>LinkedIn</u></a> &nbsp; &nbsp;
 </p>
 
 ## About Me :
-Computer Engineering student focused on Software Development with strong foundations in Data Structures, AI, and Full-Stack Development[cite: 1]. Experienced in designing and building AI-powered and MERN applications using Python, JavaScript, React, FastAPI, Flask, and MongoDB[cite: 1].
+Computer Engineering student focused on Software Development with strong foundations in Data Structures, AI, and Full-Stack Development. Experienced in designing and building AI-powered and MERN applications using Python, JavaScript, React, FastAPI, Flask, and MongoDB.
 
-Currently seeking Software Development internship opportunities to apply practical engineering skills and build impactful products[cite: 1].
+Currently seeking Software Development internship opportunities to apply practical engineering skills and build impactful products.
 
-Whether it is developing AI systems, architecting web platforms, or organizing technical workshops, I am constantly building, learning, and collaborating[cite: 1]. Let's connect and create something impactful together 🤝
+Whether it is developing AI systems, architecting web platforms, or organizing technical workshops, I am constantly building, learning, and collaborating. Let's connect and create something impactful together 🤝
 
 ## Skills :
 
@@ -44,13 +43,13 @@ Whether it is developing AI systems, architecting web platforms, or organizing t
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Current Projects:
-- **AI Tax Strategy Copilot** - Personalized tax advisory platform built with Next.js, React, FastAPI, and MongoDB featuring a custom RAG pipeline with Groq Llama 3.3[cite: 1].
-- **Face Detection Attendance System** - Automated attendance recording and reporting platform powered by OpenCV, Flask, and MongoDB[cite: 1].
-- **Employee Management System** - Role-based MERN stack application featuring JWT authentication, attendance, leave, and payroll modules[cite: 1].
-- **GTU Circular Alert Notification System** - Categorized academic alert platform providing real-time circular notifications via email[cite: 1].
+- **AI Tax Strategy Copilot** - Personalized tax advisory platform built with Next.js, React, FastAPI, and MongoDB featuring a custom RAG pipeline with Groq Llama 3.3.
+- **Face Detection Attendance System** - Automated attendance recording and reporting platform powered by OpenCV, Flask, and MongoDB.
+- **Employee Management System** - Role-based MERN stack application featuring JWT authentication, attendance, leave, and payroll modules.
+- **GTU Circular Alert Notification System** - Categorized academic alert platform providing real-time circular notifications via email.
 
 ## Achievements & Certifications :
-- Oracle OCI 2025 Generative AI Professional[cite: 1]
-- Green Skills & Artificial Intelligence (AICTE-Edunet)[cite: 1]
-- Prompt Engineering (CSRBOX)[cite: 1]
-- Active NCC Cadet (2024–Present)[cite: 1]
+- Oracle OCI 2025 Generative AI Professional
+- Green Skills & Artificial Intelligence (AICTE-Edunet)
+- Prompt Engineering (CSRBOX)
+- Active NCC Cadet (2024–Present)
