@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Siddharth 👋
 
-<!--
-**siddharth0460/siddharth0460** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student focused on Full-Stack Web Development, Artificial Intelligence, and Computer Vision.
 
-Here are some ideas to get you started:
+- 🎓 B.E. in Computer Engineering at GEC Dahod (GTU)
+- 💼 Actively seeking Software Development Internship opportunities
+- 📧 Reach me at: siddharth.230180107028@gmail.com
+- 📍 Vadodara, Gujarat, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** C, C++, Java, Python, JavaScript, PHP
+- **Frontend:** React, Next.js, Tailwind CSS, Framer Motion, HTML5, CSS3
+- **Backend:** Node.js, Express.js, FastAPI, Flask, REST APIs
+- **Databases:** MongoDB, MySQL
+- **AI / ML & Tools:** OpenCV, Groq LLM, RAG, Git, GitHub
+
+---
+
+### 🚀 Key Projects
+
+- **AI Tax Strategy Copilot:** Tax advisory platform built with Next.js, FastAPI, MongoDB, and a custom RAG pipeline using Groq Llama 3.3.
+- **Face Detection Attendance System:** AI attendance system leveraging OpenCV, Flask, and MongoDB for automated facial recognition.
+- **Employee Management System:** Role-based MERN stack application with JWT authentication, payroll, and leave management.
+- **GTU Circular Alert Notification System:** Academic alert application delivering categorized GTU notifications.
+
+---
+
+### 📜 Certifications
+- Oracle Cloud Infrastructure (OCI) Generative AI Professional
+- Green Skills & Artificial Intelligence (AICTE-Edunet)
+- Prompt Engineering (CSRBOX)
